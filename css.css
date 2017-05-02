@@ -87,7 +87,7 @@ div.team-b{
 	max-width:100%;
 	overflow:hidden;
 }
-@media (min-width: 600px) {
+@media (min-width: 768px) {
 	div.team{
 		width:50%;
 		min-height:100%;
